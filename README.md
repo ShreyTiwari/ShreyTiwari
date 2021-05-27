@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord" alt="ShreyTiwari" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true&hide=issues" alt="ShreyTiwari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html" alt="ShreyTiwari" />
+</p>
