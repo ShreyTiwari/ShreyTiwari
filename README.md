@@ -45,8 +45,8 @@ A little bit about me:
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true" alt="Shrey Tiwari's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html&count_private=true&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true" alt="Shrey Tiwari's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html&count_private=true&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="150" />
 </p>
 
 <br />
