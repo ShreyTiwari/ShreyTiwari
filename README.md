@@ -14,14 +14,6 @@ A little bit about me:
 
 ---
 
-<br />
-
-<p align="center">
-  <i>I've experience working with...</i>
-</p>
-
-<br />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="5" hspace="5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" hspace="5" />
@@ -38,28 +30,14 @@ A little bit about me:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" hspace="5" />
 </p>
 
-<br />
-
 ---
 
-<br />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true" alt="Shrey Tiwari's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html&count_private=true&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Shrey Tiwari's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html&count_private=true&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="175" />
 </p>
-
-<br />
 
 ---
-
-<br />
-
-<p align="center">
-  <i>Connect with me!</i>
-</p>
-
-<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-tiwari/">
