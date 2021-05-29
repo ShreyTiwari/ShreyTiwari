@@ -1,7 +1,7 @@
 
 ---
 
-## Hi! I am Shrey 👋
+### Hi! I am Shrey 👋
 
 <br />
 
