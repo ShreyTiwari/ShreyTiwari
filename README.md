@@ -34,7 +34,7 @@ A little bit about me:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShreyTiwari&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Shrey Tiwari's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html&count_private=true&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTiwari&layout=compact&theme=nord&hide=jupyter%20notebook,html,makefile,css&langs_count=6" alt="Shrey Tiwari's Most Used Languages" height="175" />
 </p>
 
 ---
