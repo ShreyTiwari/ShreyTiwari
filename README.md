@@ -6,8 +6,8 @@
 <br />
 
 A little bit about me:
-- 🏗️ I am a Software Engineer at Citrix.
-- 👨‍🎓 An Engineer at ❤️ and always looking foward to learning more about tech.
+<!-- 👨‍🎓 I am a Software Engineer at Citrix. -->
+- 🏗️ An Engineer at ❤️ and always looking foward to learning more about tech.
 - 🎮 I enjoy listening to music, watching movies and gaming in my free time.
 
 <br />
