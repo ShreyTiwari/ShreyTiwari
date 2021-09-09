@@ -39,12 +39,14 @@ A little bit about me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-tiwari/">
-    <img  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="15" />
+    <img  width="35px" src="./icons/linkedin.png" hspace="15" />
   </a>
   <a href="mailto:shreymt@gmail.com">
-    <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" hspace="15" />
+    <img width="35px" src="./icons/gmail.png" hspace="15" />
   </a>
   <a href="https://instagram.com/shrey_twr">
-    <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" hspace="15" />
+    <img width="35px" src="./icons/instagram.png" hspace="15" />
   </a>
 </p>
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
