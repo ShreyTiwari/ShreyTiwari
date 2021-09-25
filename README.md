@@ -41,10 +41,13 @@ A little bit about me:
   <a href="https://www.linkedin.com/in/shrey-tiwari/">
     <img  width="35px" src="./icons/linkedin.png" hspace="15" />
   </a>
-  <a href="mailto:shreymt@gmail.com">
-    <img width="35px" src="./icons/gmail.png" hspace="15" />
-  </a>
   <a href="https://instagram.com/shrey_twr">
     <img width="35px" src="./icons/instagram.png" hspace="15" />
+  </a>
+  <a href="https://www.goodreads.com/shreytiwari">
+    <img width="35px" src="./icons/goodreads.png" hspace="15" />
+  </a>
+  <a href="mailto:shreymt@gmail.com">
+    <img width="35px" src="./icons/gmail.png" hspace="15" />
   </a>
 </p>
