@@ -38,6 +38,9 @@ A little bit about me:
 ---
 
 <p align="center">
+  <a href="https://shreytiwari.github.io">
+    <img  width="32px" src="./icons/website.png" hspace="15" />
+  </a>
   <a href="https://www.linkedin.com/in/shrey-tiwari/">
     <img  width="35px" src="./icons/linkedin.png" hspace="15" />
   </a>
@@ -45,7 +48,7 @@ A little bit about me:
     <img width="35px" src="./icons/instagram.png" hspace="15" />
   </a>
   <a href="https://www.goodreads.com/shreytiwari">
-    <img width="35px" src="./icons/goodreads.png" hspace="15" />
+    <img width="37px" src="./icons/goodreads.png" hspace="15" />
   </a>
   <a href="mailto:shreymt@gmail.com">
     <img width="35px" src="./icons/gmail.png" hspace="15" />
