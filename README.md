@@ -48,8 +48,8 @@ A little bit about me:
 ---
 
 <p align="center">
-  <a href="https://shreytiwari.github.io">
-    <img  width="32px" src="./icons/website.png" hspace="15" />
+  <a href="https://shreytiwari.com">
+    <img  width="35px" src="./icons/Favicon.png" hspace="15" />
   </a>
   <a href="https://www.linkedin.com/in/shrey-tiwari/">
     <img  width="35px" src="./icons/linkedin.png" hspace="15" />
