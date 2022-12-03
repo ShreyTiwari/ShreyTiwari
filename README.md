@@ -66,7 +66,7 @@ A little bit about me:
   <a href="mailto:shreymt@gmail.com">
     <img width="35px" src="./icons/gmail.png" hspace="15" />
   </a>
-  <a href="">
+  <a href="https://twitter.com/shrey_twr">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35px" hspace="15" />
   </a>
 </p>
