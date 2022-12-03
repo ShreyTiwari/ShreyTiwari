@@ -57,6 +57,9 @@ A little bit about me:
   <a href="https://instagram.com/shrey_twr">
     <img width="35px" src="./icons/instagram.png" hspace="15" />
   </a>
+  <a href="https://youtube.com/@shrey_twr">
+    <img width="37px" src="./icons/youtube.png" hspace="15" />
+  </a>
   <a href="https://www.goodreads.com/shreytiwari">
     <img width="37px" src="./icons/goodreads.png" hspace="15" />
   </a>
