@@ -6,9 +6,9 @@
 <br />
 
 A little bit about me:
-- 👨‍🎓 I am a Research Fellow at Microsoft Research.
-- 🏗️ An Engineer at ❤️ and always looking foward to learning more about tech.
-- 🎮 I enjoy listening to music, watching movies and gaming in my free time.
+- 👨‍🎓 I am a Ph.D. student at Carnegie Mellon University.
+- 🏗️ An Engineer at ❤️ and always looking forward to learning more about tech.
+- 🎮 I enjoy listening to music, watching movies, and gaming in my free time.
 
 ---
 
